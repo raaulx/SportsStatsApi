@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Arturo** - *Backend Developer*
 
 - GitHub: [@raaulx](https://github.com/raaulx)
-- LinkedIn: [Arturo](https://linkedin.com/in/arturo)
+- LinkedIn: [Raul](www.linkedin.com/in/raul-lopez-marañon-07719b323)
 
 ---
 
