@@ -1,0 +1,54 @@
+## .NET / C# / ASP.NET Core
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Visual Studio
+.vs/
+*.sln.iml
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# dotnet tool manifest
+#.config/
